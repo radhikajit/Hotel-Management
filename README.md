@@ -26,10 +26,8 @@ Hotel room booking and management app in Django(Python).
  - To deactivate virtual environment anytime use `deactivate`
 # Features of the project
  - Fully responsive website(for both mobile and larger screens) based on google material design.
- - Login/Signup/Logout feature for both Customer and Room Manager.
- - Custom dashboard for both Customer and Room Manager.
- - Facility to add, delete, update rooms by Room Manager.
- - Room Manager can see the details of user that has booked one of his rooms.
+ - Login/Signup/Logout feature for Member or continue as guest .
+ - Custom dashboard for both Member ang guest.
  - Customer can cancel the room booking.
  - Contact form support for every visitor of website.
  - Superuser have access to all the functionality listed above.
